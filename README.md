@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Lakshmi Holla 👋</h1>
+<h1 align="center"># 👋 Hi there, I'm Lakshmi Holla</h1>
 
 <p align="center">
   <em>A 3rd-year B.Tech student passionate about building intelligent systems, solving meaningful problems, and bridging the gap between low-level code and high-level AI 🚀</em>
@@ -54,5 +54,10 @@
 ### 🕉️ Quote from the Bhagavad Gita
 
 <p align="center">
-  <em>"You have the right to work, but not to the fruit of the work. Focus on the process, not the result." <br> — Bhagavad Gita 2.47</em>
+  <em>"Do not fear what is not real. Never was there a time when you did not exist." <br><strong> — Bhagavad Gita 2.12</strong></em>
 </p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Lakshmihollat&label=Profile%20views&color=blueviolet&style=flat-square" alt="Lakshmihollat" />
+</p>
+
