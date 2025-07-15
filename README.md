@@ -7,7 +7,7 @@ I'm Lakshmi Holla — a 3rd year B.Tech student who enjoys building intelligent 
 - 🧠 I love combining logic, design, and data to create smart solutions  
 - 👯 I’m looking to collaborate on open-source, research, and applied ML projects  
 - 💬 Ask me about anything from C++ to CNNs — or just say hi!  
-- 📫 How to reach me: [LinkedIn](www.linkedin.com/in/tlholla)  
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/lakshmi-holla-t/)  
 ---
 
 ### 🛠 Languages & Tools I Use
