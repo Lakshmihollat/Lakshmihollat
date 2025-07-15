@@ -28,13 +28,19 @@
   <img src="https://img.shields.io/badge/CSS-%231572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=1d1f27"/>
   <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=ffffff"/>
   <img src="https://img.shields.io/badge/Flask-%23000000?style=for-the-badge&logo=flask&logoColor=white&labelColor=1d1f27"/>
-  <img src="https://img.shields.io/badge/React-%2361DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=ffffff"/>
   <img src="https://img.shields.io/badge/MySQL-%234479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=1d1f27"/>
   <img src="https://img.shields.io/badge/OpenCV-%235C3EE8?style=for-the-badge&logo=opencv&logoColor=white&labelColor=1d1f27"/>
   <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=1d1f27"/>
+  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=1d1f27"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-%23F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white&labelColor=1d1f27"/>
+  <img src="https://img.shields.io/badge/YOLOv8-%23000000?style=for-the-badge&logo=ultralytics&logoColor=white&labelColor=1d1f27"/>
+  <img src="https://img.shields.io/badge/Whisper-%23000000?style=for-the-badge&logo=openai&logoColor=white&labelColor=1d1f27"/>
+  <img src="https://img.shields.io/badge/Machine%20Learning-%2300C49A?style=for-the-badge&logo=academia&logoColor=white&labelColor=1d1f27"/>
+  <img src="https://img.shields.io/badge/Deep%20Learning-%230072C6?style=for-the-badge&logo=deeplearning&logoColor=white&labelColor=1d1f27"/>
   <img src="https://img.shields.io/badge/Git-%23F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=1d1f27"/>
   <img src="https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white&labelColor=1d1f27"/>
 </p>
+
 
 ---
 
