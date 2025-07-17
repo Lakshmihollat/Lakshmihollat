@@ -60,8 +60,9 @@
 ### 🕉️ Quote from the Bhagavad Gita
 
 <p align="center">
-  <em>"Do not fear what is not real. Never was there a time when you did not exist." <br><strong> — Bhagavad Gita 2.12</strong></em>
+  <em>"Do not fear what is not real. Never was there a time when you did not exist." <br><strong>— Based on Bhagavad Gita 2.12 & 2.16</strong></em>
 </p>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Lakshmihollat&label=Profile%20views&color=blueviolet&style=flat-square" alt="Lakshmihollat" />
