@@ -51,9 +51,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lakshmihollat&layout=compact&theme=react&hide_border=true" width="48%"/>
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Lakshmihollat&theme=react&hide_border=true" width="96%"/>
-</p>
 
 ---
 
