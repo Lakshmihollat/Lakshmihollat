@@ -13,7 +13,7 @@
 - 🧠 I enjoy combining logic, design, and data to build impactful solutions  
 - 🤝 Looking to collaborate on **open-source, applied AI, and research projects**  
 - 💬 Always down to talk about code, creativity, or cool side projects!  
-- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/lakshmi-holla-t/)
+- 📫 Reach me on [LinkedIn](www.linkedin.com/in/tlholla)
 
 ---
 
