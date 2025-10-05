@@ -12,7 +12,8 @@
 - 🌱 Learning **advanced DSA** and sharpening my ML fundamentals  
 - 🧠 I enjoy combining logic, design, and data to build impactful solutions  
 - 🤝 Looking to collaborate on **open-source, applied AI, and research projects**  
-- 💬 Always down to talk about code, creativity, or cool side projects!  
+- 💬 Always down to talk about code, creativity, or cool side projects!
+- Visit my [website](https://lakshmihollat.github.io/Portfolio/)
 - 📫 [LinkedIn](https://www.linkedin.com/in/tlholla)
 
 ---
