@@ -1,7 +1,7 @@
 <h1 align="center"> 👋 Hi there, I'm Lakshmi Holla T</h1>
 
 <p align="center">
-  <em>A 3rd-year B.Tech student passionate about building intelligent systems, solving meaningful problems, and bridging the gap between low-level code and high-level AI 🚀</em>
+  <em>I'm a 3rd-year B.Tech student passionate about building intelligent systems, solving meaningful problems, and bridging the gap between low-level code and high-level AI 🚀</em>
 </p>
 
 ---
