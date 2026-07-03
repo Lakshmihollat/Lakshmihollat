@@ -16,10 +16,6 @@
   <a href="https://lakshmihollat.github.io/Portfolio/">
     <img src="https://img.shields.io/badge/Portfolio-7F00FF?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
-
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
 </p>
 
 ---
@@ -76,17 +72,12 @@ Currently exploring the intersection of **Generative AI, Distributed Systems, Cl
 # 📊 GitHub Analytics
 
 <p align="center">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Lakshmihollat&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Lakshmihollat&theme=tokyonight&hide_border=true"/>
-
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Lakshmihollat&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Lakshmihollat&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lakshmihollat&layout=compact&theme=tokyonight&hide_border=true"/>
-
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lakshmihollat&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -94,9 +85,7 @@ Currently exploring the intersection of **Generative AI, Distributed Systems, Cl
 # 🏆 GitHub Trophies
 
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Lakshmihollat&theme=algolia&no-frame=true&margin-w=15"/>
-
+  <img src="https://github-profile-trophy.vercel.app/?username=Lakshmihollat&theme=algolia&no-frame=true&margin-w=15"/>
 </p>
 
 ---
@@ -104,9 +93,7 @@ Currently exploring the intersection of **Generative AI, Distributed Systems, Cl
 # 📈 Contribution Graph
 
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Lakshmihollat&theme=tokyo-night&hide_border=true"/>
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lakshmihollat&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
