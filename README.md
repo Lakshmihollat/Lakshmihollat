@@ -1,77 +1,220 @@
-<h1 align="center"> 👋 Hi there, I'm Lakshmi Holla T</h1>
+<!-- Animated Header -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:00C6FF&height=220&section=header&text=Lakshmi%20Holla%20T&fontSize=42&fontAlignY=35&fontColor=ffffff&animation=fadeIn"/>
+
+<h1 align="center">☕ Hey there! I'm Lila 👋</h1>
 
 <p align="center">
-  <em>I'm a 3rd-year B.Tech student passionate about building intelligent systems, solving meaningful problems, and bridging the gap between low-level code and high-level AI 🚀</em>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&center=true&vCenter=true&width=700&lines=Machine+Learning+Engineer+in+the+Making;Software+Engineer;Building+AI-Powered+Applications;Learning+Something+New+Every+Day;Powered+by+Coffee+%E2%98%95" />
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/tlholla">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="https://lakshmihollat.github.io/Portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-7F00FF?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-### 👩‍💻 About Me
+# 👩🏻‍💻 About Me
 
-- 🔭 Currently working on **Machine Learning** projects and full-stack apps  
-- 🌱 Learning **advanced DSA** and sharpening my ML fundamentals  
-- 🧠 I enjoy combining logic, design, and data to build impactful solutions  
-- 🤝 Looking to collaborate on **open-source, applied AI, and research projects**  
-- 💬 Always down to talk about code, creativity, or cool side projects!
-- Visit my [website](https://lakshmihollat.github.io/Portfolio/)
-- 📫 [LinkedIn](https://www.linkedin.com/in/tlholla)
+🎓 IT Engineering student at **MIT Manipal**
 
----
+🚀 Passionate about building intelligent software that combines **Machine Learning, AI, and scalable backend systems.**
 
-### 🧰 Tech Stack
+I enjoy taking ideas from research papers to real-world applications—whether it's building computer vision systems, developing ML pipelines, or designing backend architectures.
 
-<p align="center">
-  <img src="https://img.shields.io/badge/C-%2300599C?style=for-the-badge&logo=c&logoColor=white&labelColor=1d1f27"/>
-  <img src="https://img.shields.io/badge/C++-%2300599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&labelColor=1d1f27"/>
-  <img src="https://img.shields.io/badge/Java-%23ED8B00?style=for-the-badge&logo=java&logoColor=white&labelColor=1d1f27"/>
-  <img src="https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=1d1f27"/>
-  <img src="https://img.shields.io/badge/HTML-%23E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=1d1f27"/>
-  <img src="https://img.shields.io/badge/CSS-%231572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=1d1f27"/>
-  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=ffffff"/>
-  <img src="https://img.shields.io/badge/Flask-%23000000?style=for-the-badge&logo=flask&logoColor=white&labelColor=1d1f27"/>
-  <img src="https://img.shields.io/badge/MySQL-%234479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=1d1f27"/>
-  <img src="https://img.shields.io/badge/OpenCV-%235C3EE8?style=for-the-badge&logo=opencv&logoColor=white&labelColor=1d1f27"/>
-  
-  <img src="https://img.shields.io/badge/Scikit--Learn-%23F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white&labelColor=1d1f27"/>
-  <img src="https://img.shields.io/badge/YOLOv8-%23000000?style=for-the-badge&logo=ultralytics&logoColor=white&labelColor=1d1f27"/>
-  <img src="https://img.shields.io/badge/Whisper-%23000000?style=for-the-badge&logo=openai&logoColor=white&labelColor=1d1f27"/>
-  <img src="https://img.shields.io/badge/Machine%20Learning-%2300C49A?style=for-the-badge&logo=academia&logoColor=white&labelColor=1d1f27"/>
- 
-  <img src="https://img.shields.io/badge/Git-%23F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=1d1f27"/>
-  <img src="https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white&labelColor=1d1f27"/>
-</p>
-
-
----
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Lakshmihollat&theme=algolia&no-frame=true&margin-w=15&margin-h=15"/>
-</p>
+Currently exploring the intersection of **Generative AI, Distributed Systems, Cloud Computing, and Software Engineering.**
 
 ---
 
-### 📈 GitHub Stats
+# 🚀 Currently Working On
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lakshmihollat&show_icons=true&theme=react&hide_border=true" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lakshmihollat&theme=react&hide_border=true"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lakshmihollat&layout=compact&theme=react&hide_border=true" width="48%"/>
-</p>
-
+- 🧠 Advanced Data Structures & Algorithms
+- ⚙️ Spring Boot & Backend Development
+- 🤖 Machine Learning & Deep Learning
+- ☁️ AWS & Cloud Technologies
+- 📚 System Design
+- 💻 Building AI + Full Stack Projects
 
 ---
 
-### 🕉️ Quote from the Bhagavad Gita
+# 🛠 Tech Stack
 
 <p align="center">
-  <em>"Do not fear what is not real. Never was there a time when you did not exist." <br><strong>— Based on Bhagavad Gita 2.12 & 2.16</strong></em>
+
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,javascript,react,flask,spring,mysql,mongodb,git,github,docker,aws,vscode,linux&perline=9"/>
+
 </p>
 
+### 🤖 AI / ML
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Lakshmihollat&label=Profile%20views&color=blueviolet&style=flat-square" alt="Lakshmihollat" />
+
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/YOLOv8-black?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Whisper-black?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Machine%20Learning-00C49A?style=for-the-badge"/>
+
 </p>
 
+---
+
+# 🚀 Featured Projects
+
+### 🩺 WalkBuddy
+
+AI-powered smart navigation assistant for visually impaired users using **YOLOv8 + DeepSORT** for object detection and tracking.
+
+---
+
+### 🎓 College Success Predictor
+
+Machine Learning model with a Flask frontend that predicts student performance using attendance, academic scores, and engagement metrics.
+
+---
+
+### 🎤 Voice-to-Text Summarizer
+
+Speech transcription using **Whisper** integrated with **LLMs** for automatic summarization.
+
+---
+
+### 🌦 Weather App
+
+Responsive weather application using REST APIs.
+
+---
+
+### 📋 BootCamp Tracker
+
+Web application built with ACM-W for managing technical bootcamps efficiently.
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Lakshmihollat&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Lakshmihollat&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lakshmihollat&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Lakshmihollat&theme=algolia&no-frame=true&margin-w=15"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Lakshmihollat&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 📌 Currently Learning
+
+```text
+✓ Advanced DSA
+
+✓ Spring Boot
+
+✓ Machine Learning
+
+✓ Deep Learning
+
+✓ AWS
+
+✓ System Design
+
+✓ Concurrent Backend Systems
+```
+
+---
+
+# ☕ Developer Status
+
+```text
+Coffee         ████████████ 100%
+
+Debugging      ██████████░░ 85%
+
+Learning       ████████████ 100%
+
+Sleep          ░░░░░░░░░░░░ Compiling...
+```
+
+---
+
+# 🌱 This Year
+
+🎯 Crack Software Engineering & ML internships
+
+📚 Strengthen CS Fundamentals
+
+⚙️ Build scalable AI applications
+
+🚀 Contribute more to Open Source
+
+📝 Publish impactful engineering projects
+
+---
+
+# ✨ Fun Facts
+
+- ☕ Coffee makes debugging faster (scientifically unverified 😄)
+- 🎬 I love movies & dramas
+- 📚 I enjoy getting lost in a good book
+- 💡 I like turning research ideas into real software
+- 🚀 Always looking for the next technical rabbit hole
+
+---
+
+# 🕉️ Bhagavad Gita
+
+> **"You have a right to perform your prescribed duties, but you are not entitled to the fruits of your actions."**
+>
+> *— Bhagavad Gita 2.47*
+
+---
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Lakshmihollat&label=Profile%20Views&color=7F00FF&style=for-the-badge"/>
+
+</p>
+
+---
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,100:7F00FF&height=150&section=footer"/>
