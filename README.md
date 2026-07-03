@@ -47,7 +47,7 @@ Currently exploring the intersection of **Generative AI, Distributed Systems, Cl
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,javascript,react,flask,spring,mysql,mongodb,git,github,docker,aws,vscode,linux&perline=9"/>
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,javascript,react,flutter,flask,springboot,mysql,git,github,docker,aws,vscode,linux&perline=9"/>
 
 </p>
 
