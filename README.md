@@ -79,17 +79,6 @@ Currently exploring the intersection of **Generative AI, Distributed Systems, Cl
 <p align="center">
   <img width="45%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Lakshmihollat&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
-
----
-
-# ⏱️ Weekly Coding Stats
-
-<p align="center">
-  <a href="https://wakatime.com">
-    <img src="https://github-stats-extended.vercel.app/api/wakatime?username=Lakshmihollat&layout=compact&theme=tokyonight&hide_border=true&v=2" />
-  </a>
-</p>
-
 ---
 
 # 📈 Contribution Graph
