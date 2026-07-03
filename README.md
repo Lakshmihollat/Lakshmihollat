@@ -79,6 +79,7 @@ Currently exploring the intersection of **Generative AI, Distributed Systems, Cl
 <p align="center">
   <img width="45%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Lakshmihollat&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
+
 ---
 
 # 📈 Contribution Graph
@@ -86,6 +87,7 @@ Currently exploring the intersection of **Generative AI, Distributed Systems, Cl
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lakshmihollat&theme=tokyo-night&hide_border=true&v=2"/>
 </p>
+
 ---
 
 # 📌 Currently Learning
