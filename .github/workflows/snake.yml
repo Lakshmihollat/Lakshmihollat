@@ -5,7 +5,7 @@ on:
     - cron: "0 0 * * *" # Runs at midnight every day
   workflow_dispatch: # Allows you to run it manually right now
   push:
-    branches:
+    branches: 
       - main
 
 jobs:
