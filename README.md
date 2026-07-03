@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:00C6FF&height=220&section=header&text=Lakshmi%20Holla%20T&fontSize=42&fontAlignY=35&fontColor=ffffff&animation=fadeIn"/>
 
-<h1 align="center">☕ Hey there! I'm Lila 👋</h1>
+<h1 align="center">☕ Hey there! I'm Lakshmi 👋</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&center=true&vCenter=true&width=700&lines=Machine+Learning+Engineer+in+the+Making;Software+Engineer;Building+AI-Powered+Applications;Learning+Something+New+Every+Day;Powered+by+Coffee+%E2%98%95" />
@@ -63,45 +63,13 @@ Currently exploring the intersection of **Generative AI, Distributed Systems, Cl
 
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/YOLOv8-black?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Pandas-black?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Whisper-black?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Numpy-black?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/Machine%20Learning-00C49A?style=for-the-badge"/>
 
 </p>
-
----
-
-# 🚀 Featured Projects
-
-### 🩺 WalkBuddy
-
-AI-powered smart navigation assistant for visually impaired users using **YOLOv8 + DeepSORT** for object detection and tracking.
-
----
-
-### 🎓 College Success Predictor
-
-Machine Learning model with a Flask frontend that predicts student performance using attendance, academic scores, and engagement metrics.
-
----
-
-### 🎤 Voice-to-Text Summarizer
-
-Speech transcription using **Whisper** integrated with **LLMs** for automatic summarization.
-
----
-
-### 🌦 Weather App
-
-Responsive weather application using REST APIs.
-
----
-
-### 📋 BootCamp Tracker
-
-Web application built with ACM-W for managing technical bootcamps efficiently.
 
 ---
 
@@ -177,20 +145,6 @@ Sleep          ░░░░░░░░░░░░ Compiling...
 
 ---
 
-# 🌱 This Year
-
-🎯 Crack Software Engineering & ML internships
-
-📚 Strengthen CS Fundamentals
-
-⚙️ Build scalable AI applications
-
-🚀 Contribute more to Open Source
-
-📝 Publish impactful engineering projects
-
----
-
 # ✨ Fun Facts
 
 - ☕ Coffee makes debugging faster (scientifically unverified 😄)
@@ -201,13 +155,6 @@ Sleep          ░░░░░░░░░░░░ Compiling...
 
 ---
 
-# 🕉️ Bhagavad Gita
-
-> **"You have a right to perform your prescribed duties, but you are not entitled to the fruits of your actions."**
->
-> *— Bhagavad Gita 2.47*
-
----
 
 <p align="center">
 
