@@ -86,7 +86,7 @@ Currently exploring the intersection of **Generative AI, Distributed Systems, Cl
 
 <p align="center">
   <a href="https://wakatime.com">
-    <img src="https://github-stats-extended.vercel.app/api/wakatime?username=Lakshmihollat&layout=compact&theme=tokyonight&hide_border=true" alt="WakaTime Stats" />
+    <img src="https://github-stats-extended.vercel.app/api/wakatime?username=Lakshmihollat&layout=compact&theme=tokyonight&hide_border=true&v=2" />
   </a>
 </p>
 
