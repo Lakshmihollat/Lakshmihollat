@@ -72,12 +72,12 @@ Currently exploring the intersection of **Generative AI, Distributed Systems, Cl
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Lakshmihollat&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img width="48%" src="https://github-stats-extended.vercel.app/api?username=Lakshmihollat&show_icons=true&theme=tokyonight&hide_border=true"/>
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Lakshmihollat&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lakshmihollat&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img width="45%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Lakshmihollat&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -95,7 +95,6 @@ Currently exploring the intersection of **Generative AI, Distributed Systems, Cl
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lakshmihollat&theme=tokyo-night&hide_border=true"/>
 </p>
-
 ---
 
 # 📌 Currently Learning
