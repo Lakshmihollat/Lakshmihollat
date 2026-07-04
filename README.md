@@ -72,12 +72,12 @@ Currently exploring the intersection of **Generative AI, Distributed Systems, Cl
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img width="48%" src="https://github-stats-extended.vercel.app/api?username=Lakshmihollat&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Lakshmihollat&theme=tokyonight&hide_border=true"/>
+  <img width="48%" src="https://github-stats-extended.vercel.app/api?username=Lakshmihollat&show_icons=true&theme=tokyonight&hide_border=true&v=2"/>
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Lakshmihollat&theme=tokyonight&hide_border=true&v=2"/>
 </p>
 
 <p align="center">
-  <img width="45%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Lakshmihollat&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img width="45%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Lakshmihollat&layout=compact&theme=tokyonight&hide_border=true&v=2"/>
 </p>
 
 ---
@@ -137,7 +137,7 @@ Sleep          ░░░░░░░░░░░░ Compiling...
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Lakshmihollat&label=Profile%20Views&color=7F00FF&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=Lakshmihollat&label=Profile%20Views&color=7F00FF&style=for-the-badge&v=2"/>
 
 </p>
 
