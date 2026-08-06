@@ -7,7 +7,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&center=true&vCenter=true&width=700&lines=Machine+Learning+Engineer+in+the+Making;Software+Engineer;Building+AI-Powered+Applications;Learning+Something+New+Every+Day;Powered+by+Coffee+%E2%98%95" />
 </p>
-
+ 
 <p align="center">
   <a href="https://www.linkedin.com/in/tlholla">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
